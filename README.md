@@ -1,3 +1,7 @@
+# Introduction
+
+This is a React-based web application for managing your reading list. You can use this app to keep track of the books you want to read. The app allows you to add new books to your list, edit books, and delete books from your list.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
